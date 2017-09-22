@@ -1,4 +1,4 @@
-![cf](https://i.imgur.com/7v5ASc8.png) 21: React Tooling
+![DV](https://www.deltavcodeschool.com/wp-content/uploads/DeltaV.png) 21: React Tooling
 ======
 
 ## Submission Instructions
@@ -8,7 +8,6 @@
   * submit a pull request to this repository
   * submit a link to your PR in canvas
   * write a question and observation on canvas
-
 
 ## Learning Objectives  
 * students will be able to configure webpack.js to build a web application bundle
@@ -38,7 +37,9 @@
 * should create a view with the following display
   * a heading with the title "Generate Cowsay Lorem"
   * a button that displays "click me"
-    * `onClick` the button should generate new content on the app state using `cowsay` and `faker`
+    * `onClick` the button should generate new content on the app state using
+      [`cowsay`](https://www.npmjs.com/package/cowsay-browser) and
+      [`faker`](https://www.npmjs.com/package/faker)
   * a `pre` tag that displays the app's state's content
 
 ####  Documentation  
